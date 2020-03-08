@@ -1,13 +1,14 @@
 {
   "name": "gatsby-ts-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gatsby Starter/Boilerplate",
   "repository": {
     "type": "git",
     "url": "https://github.com/saostad/gatsby-ts-starter.git"
   },
   "scripts": {
-    "gatsby": "gatsby develop"
+    "gatsby": "gatsby develop",
+    "build": "gatsby build"
   },
   "keywords": [
     "gatsby",
