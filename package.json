@@ -34,7 +34,7 @@
     "typescript": "^3.8.3"
   },
   "dependencies": {
-    "gatsby": "^2.19.32",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-typescript": "^2.2.2",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
